@@ -1,1 +1,4 @@
-myenv  # ignoring the virtualenv 
+__pycache__/
+*.pyc
+*.pyo
+.env  
