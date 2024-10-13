@@ -1,8 +1,8 @@
 project setup
 1. clone the repository
 2. type 'pip install requirements.txt' on terminal 
-3. uvicorn main:app  on terminal 
-want to reload  then  'uvicorn main:app --reload' on terminal
+3. uvicorn app.main:app  on terminal 
+want to reload  then  'uvicorn app.main:app --reload' on terminal
 
 Access this URL to view the running project: http://127.0.0.1:8000/docs#/
 
